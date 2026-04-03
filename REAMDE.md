@@ -1,5 +1,7 @@
 # IOB - Predykcja chęci założenia lokaty terminowej
 
+**Autorzy:** Jan Tlałka, Radosław Ruczka
+
 Projekt analizuje dane marketingowe banku w celu przewidywania, czy klient założy lokatę terminową. Analiza i modele są zaimplementowane w notatniku [iob_proj.ipynb](iob_proj.ipynb). Dane wejściowe znajdują się w katalogu [lokata/lokata.csv](lokata/lokata.csv).
 
 **Opis projektu:**
